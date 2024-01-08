@@ -8,7 +8,8 @@ This project is taken from Code Basics Resume Project Challenge.
 `Provide Insights to the Revenue Team in the Hospitality Domain`
 
 #### Background
-AtliQ Grands owns multiple five-star hotels across India.  As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
+AtliQ Grands owns multiple five-star hotels across India.  
+As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
 
 #### Dashboard
 The Dashboard shows many visuals which convey various insights, some of which are :
