@@ -2,7 +2,7 @@
 
 This project is taken from Code Basics Resume Project Challenge.
 
-## [Dashboard Link]
+## [Dashboard Link]https://www.novypro.com/project/hospitality-domain-10
 
 #### Project Title
 `Provide Insights to the Revenue Team in the Hospitality Domain`
