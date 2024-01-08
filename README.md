@@ -20,5 +20,5 @@ The Dashboard shows many visuals which convey various insights, some of which ar
 #### Tool Used : Power BI
 
 #### Key Features
-- Advance DAX queries have been used
+- Advance DAX has been used including 'HASONEFILTER', 'SELECTEDVALUE', 'CALCULATE', variable creation etc.
 - The feature of showing visuals as tooltips has been used
